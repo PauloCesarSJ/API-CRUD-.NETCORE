@@ -1,0 +1,6 @@
+@WebApiCrudNetCore_HostAddress = http://localhost:5163
+
+GET {{WebApiCrudNetCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
